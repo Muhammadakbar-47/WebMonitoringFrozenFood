@@ -1,0 +1,6 @@
+{
+  "name": "IkanFrozen QR Monitor",
+  "description": "Modern QR-based monitoring and tracking system for frozen fish supply chains and sales.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["QR Scanning", "Supply Chain Tracking", "Sales Analytics"]
+}
